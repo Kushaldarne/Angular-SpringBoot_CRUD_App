@@ -21,7 +21,7 @@ CRUD App using UI: Angular, Node js and in Backend: Maven-Spring boot, Hibernate
 ```
 7. Build the project: Open a command prompt, navigate to the root directory of the cloned project, and run the following command to build the project:
 ```bash
-  mvn cean install
+  mvn clean install
 ```
 8. Run the Spring Boot backend from SpringbootBackendApplication.
 This will start the backend server on http://localhost:8080/api/v1/employees .
